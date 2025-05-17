@@ -1,0 +1,33 @@
+# Compiled binaries
+httplib_server
+employee_client
+employee_cli
+api_test
+cmocka_test
+
+# Object files
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Log files
+logs/*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# macOS specific
+.DS_Store
+
+# Temporary files
+*.tmp
